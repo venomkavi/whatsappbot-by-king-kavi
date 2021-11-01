@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  WhatsApp Music Bot v2
+  WhatsAppbot by king kavi
 </h3>
 
 <p align="center">
