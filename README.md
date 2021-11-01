@@ -93,26 +93,13 @@ const text = langs.en; // english
 <br />
 After run the script, you need to scan the QrCode in your terminal with your whatsapp! (Same proccess to join whatsapp web)
 
-## :mag_right: Functionalities
+## :mag_right:🎭HOW😩
+🤔 Think හිතන්න witch song මොන සින්දුවද do you need ඔයාට ඔනෙ කියල
+go to your whatsapp chat වට්සැප් එකට යන්න send { ! }and your song name { ¡} ඔබගේ සිංදුවේ නම දාන්න
+යවන්න😩🎭
 
-See the current features!
-- Search a song directly from youtube;
-- Songs once searched are downloaded for optimized next searches;
-- Send songs in private or in groups;
-- Your friends can send the command too;
-- You can enable the "Download progress";
-- Prevents downloading videos more than 15 minutes long.
+## :😤DUMB ME😤
 
-## :busts_in_silhouette: Contribute
-
-- Fork this repository;
-- Create one branch with your feature: `git checkout -b my-feature`;
-- Commit your alterations: `git commit -m 'feat: My new feature'`;
-- Push to your branch: `git push origin my-feature`.
-
-Open a pull request with your branch. After yout pull request merge, you should delete your branch.
-<br />
-We need some translations too! Look for `language.ts` file! **It's so easy!**
 
 ## :Owner⛔
 
