@@ -61,7 +61,7 @@ This project was developed following this technologies:
 
 
 
-## :information_source: How To
+## :information_source:⛔TURMUX METHOD⛔
 
 To clone this application you will need [Git](https://git-scm.com) + [Node.js v12.15.0][nodejs] or higher + [Yarn v1.22.4][yarn] or higher installed in your computer. Run in terminal:
 
