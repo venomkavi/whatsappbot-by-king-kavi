@@ -32,13 +32,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center" style="display: flex; align-items: center; justify-content:center;">
-  <img alt="Web Gif" src=".github/cached.gif" width="250px">
-  <img alt="Web Gif" src=".github/download.gif" width="250px">
-  <img alt="Web Gif" src=".github/longest.gif" width="250px">
-  <img alt="Web Gif" src=".github/groups.gif" width="250px">
-  <img alt="Web Gif" src=".github/progress.gif" width="250px">
-</p>
+
 
 ## :rocket: Informations about kavi bot😩🎭
 
