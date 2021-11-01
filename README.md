@@ -40,11 +40,12 @@
   <img alt="Web Gif" src=".github/progress.gif" width="250px">
 </p>
 
-## :rocket: Info
+## :rocket: Informations about kavi bot😩🎭
 
-Your whatsapp becomes a music bot!. You can send music's to your friend's private conversation or in your gropus just sending `!play SONG_NAME` where SONG_NAME is the name of the song you are looking for!
+Your bot can give you songs🎭{ex-!play manike mage hithe}
+ 🎊this bot is human friendly use this correctly🎊
 
-## :computer: Technologies
+## :computer: ⛔ONLY SONGS⛔
 
 This project was developed following this technologies:
 
@@ -113,12 +114,9 @@ Open a pull request with your branch. After yout pull request merge, you should 
 <br />
 We need some translations too! Look for `language.ts` file! **It's so easy!**
 
-## :memo: License
-This project is under MIT license. See [LICENSE](https://github.com/mlg404/whatsapp-music-bot/blob/master/LICENSE) for more information.
+## :Owner⛔
 
----
-
-Made with 💙 by Victor Eyer :wave: [Get in touch!](https://www.linkedin.com/in/victoreyer/)
+Made by king kaviya⛔ Sri lanka⛔
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://classic.yarnpkg.com/lang/en/
